@@ -1,5 +1,11 @@
 # Privacy, security and incidents
 
+Principles for protection shall, according to GDPR [Article 5(1)](https://gdpr-info.eu/art-5-gdpr/), include purpose limitation, data minimisation, storage minimisation, and integrity and confidentiality. This means that personal data should be processed only for specified legal purposes, limited to what is relevant and necessary, not kept longer than necessary, and protected through appropriate technical and organisational measures.
+
+GDPR [Article 32(1)](https://gdpr-info.eu/art-32-gdpr/) requires data controllers to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk. This assessment must take into account the state of the art, the costs of implementation, the nature, scope, context and purposes of processing, and the likelihood and severity of risks to the rights and freedoms of natural persons.
+
+GDPR [Article 32(1)](https://gdpr-info.eu/art-32-gdpr/) suggests encryption and/or pseudonymisation when suitable. Pseudonymisation, according to GDPR [Article 4(5)](https://gdpr-info.eu/art-4-gdpr/), means processing personal data so that they can no longer be attributed to a specific person without additional information, such as a key, which must be kept protected and separate. If this additional information is deleted so that attribution is no longer possible even indirectly, the data may become anonymous and cease to be personal data regulated by GDPR. GDPR [Article 32(1)(d)](https://gdpr-info.eu/art-32-gdpr/) also requires regular assessment of the effectiveness of protective measures, since changes in the state of the art and availability of additional information may make previously anonymous data attributable again.
+
 ## Privacy
 
 PublicnEUro supports FAIR and GDPR-compliant sharing of brain-imaging research data. The institution responsible for a dataset remains the data controller for that dataset and is responsible for ensuring that the data were collected lawfully, that the data have been properly pseudonymised before upload, and that the dataset is accompanied by a nationally lawful and GDPR-compliant Data User Agreement (DUA).

@@ -42,6 +42,33 @@ PublicnEUro also acts as data controller for the personal information needed to 
 
 The authors are responsible for pseudonymising their data and providing a Data User Agreement that is GDPR- and nationally lawful. PublicnEUro is responsible for data sharing, ensuring that the Data User Agreement and Standard Contractual Clauses for non-EU users/countries without an adequate level of protection are signed before giving access, as well as ensuring overall data security.
 
+## How is PublicnEUro GDPR compliant?
+
+PublicnEUro's GDPR compliance is based on clear roles, documented instructions, access controls, audit records, data-protection oversight and incident procedures. The details below summarise platform-level compliance and public data-sharing compliance.
+
+### Platform compliance
+
+- The legal basis for PublicnEUro is performance of contract, acting as a processor on behalf of the data controller to share data, and as a data controller for users to provide them with a service.
+- PublicnEUro provides a privacy notice for users; their information is processed under performance of contract.
+- Data controllers who use PublicnEUro can request and access all user access records related to their data.
+- All data access is recorded for audit purposes.
+- A record of staff and their GDPR training is kept.
+- A Data Protection Officer reviews compliance and implements changes when needed.
+- A data breach involving authors, users or institutions in the database is reported to the supervisory authority as soon as possible by phone and email, and data users are informed by email.
+- In the case of a data breach related to datasets, authors are contacted immediately so they can report to their supervisory authority.
+
+### Public data sharing compliance
+
+- Data are securely stored and managed with an Identity and Access Management system.
+- Identified users must sign a Data User Agreement, and Standard Contractual Clauses are required for users located in non-EU countries or countries without an adequate level of data protection.
+- Data access requests and access are auditable.
+- Cloud-stored data are strongly encrypted at rest and in transit.
+- Any data breach is reported to the data controllers.
+- The cloud service and the nEUrothenticate platform are ISO 27001 certified.
+- A risk assessment is conducted on a regular basis, and that information is kept in a risk registry.
+
+Additional GDPR compliance includes the Data Transfer Agreement between authors and the Neurobiology Research Unit. Users must agree that PublicnEUro may keep their information for the purpose of providing data access and auditing.
+
 ## Definitions and roles
 
 *Author(s)*: The person(s) who are credited with the work in producing the dataset, be it in defining the selection criteria, or gathering, structuring, enriching, or annotating the data, or for leading or funding the work. This is comparable to the list of authors in an academic publication.
