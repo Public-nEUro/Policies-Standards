@@ -1,13 +1,15 @@
 # Governance Structure
 
+PublicnEUro is a service provided by the [Neurobiology Research Unit](https://nru.dk/), governed by the [Capital Region of Denmark](https://www.regionh.dk/english/Pages/default.aspx). NRU act as a data processor on behalf of data controllers.
+
 ## Oversight committee
 
-An oversight committee is composed of members of Open NeuroPET and other international experts in brain imaging and data sharing. The members are: Gitte Knussen, Robert Innis, Melanie Ganz (OpenNeuro PET), Koen Van Laere, and Russ Poldrack. The committee's deliberations operate as follows: two co-chairs are appointed and at least one co-chair must be present; a simple majority is considered a quorum to conduct business, and decision-making is by consensus.
+An oversight committee is composed of experts in brain imaging and data sharing. The members are: Gitte Knussen, Robert Innis, Melanie Ganz, Koen Van Laere, and Russ Poldrack. The committee's deliberations operate as follows: two co-chairs are appointed and at least one co-chair must be present; a simple majority is considered a quorum to conduct business, and decision-making is by consensus.
 
 The role of the oversight committee is to:
 
 - officially represent PublicnEUro and disseminate information.
-- provide guidance and direction on policies and scientific choices (vision and purpose aligned with Open NeuroPET).
+- provide guidance and direction on policies and scientific choices (vision and purpose).
 - review free vs. paying services and discuss the sustainability of the platform.
 - review activities (summarised by the management committee).
 
@@ -15,7 +17,7 @@ The role of the oversight committee is to:
 
 The management committee is composed of members of the Neurobiology Research Unit who work directly on Open NeuroPET and/or PublicnEUro.
 
-The role of the management committee is to:
+The role of the management committee members is to:
 
 - ensure that PublicnEUro supports the vision and purpose set by the oversight committee.
 - define the components of PublicnEUro that subserve the vision and purpose (i.e., set the technical specifications).
@@ -28,8 +30,8 @@ The role of the management committee is to:
 The platform operates with the help of a DPO whose role is to:
 
 - advise and provide reports to the Oversight Committee and the Management Committee, including a DPIA.
-- work with the Management Committee to identify and assess risks.
-- regularly review data access rights, including which data are accessed by whom, to ensure good records and prepare for possible audits.
+- work on the Management Committee to identify and assess risks.
+- review data access rights, including which data are accessed by whom, to ensure good records and prepare for possible audits.
 - contact authors (the data controller) and be the primary contact point with authorities in case of a security breach.
 
 # Responsabilities
