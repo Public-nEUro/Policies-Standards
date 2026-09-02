@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # PublicnEUro Privacy Notice
 
 PublicnEUro is a data repository service offered by the Neurobiology Research Unit at Rigshospitalet, part of Region Hovedstaden. This privacy policy explains how our organisation uses the personal data we collect from you when you use our services.

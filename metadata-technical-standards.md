@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Metadata and technical standards
 
 This page summarises the main metadata and technical standards used by PublicnEUro. It is an overview; the detailed machine-readable records, schemas and generated exports are maintained in the [PublicnEUro metadata repository](https://github.com/Public-nEUro/PublicnEUro-metadata).

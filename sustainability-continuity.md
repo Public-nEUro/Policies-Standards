@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Sustainability and continuity
 
 ## Institutional basis
@@ -20,9 +22,9 @@ The model has three main cost components:
 
 Management and maintenance fees provide a modest overhead for the repository services that sit around storage. This includes the virtual machines and software services used by PublicnEUro, access-control workflows, account administration, signed agreement handling, metadata publication, DOI landing-page maintenance, security follow-up, and communication with data controllers and users.
 
-Because the repository depends on dataset-level fees to cover Computerome hosting and repository overhead, non-payment can affect continued file availability. If a data controller does not pay the applicable fees, PublicnEUro may terminate or not renew the active hosting service in accordance with the agreement. This is offsetted by the one-time payment plan, that fits typical grant spending structure. In this case, an additional buffer fee is intended to cover potential increases in subcontractor prices over the covered period. For annual payment plans, the requested amount can be updated based on inflation and subcontractor prices.
+Because the repository depends on dataset-level fees to cover Computerome hosting and repository overhead, non-payment can affect continued file availability. If a data controller does not pay the applicable fees, PublicnEUro may terminate or not renew the active hosting service in accordance with the agreement. This is offset by the one-time payment plan, which fits typical grant spending structure. In this case, an additional buffer fee is intended to cover potential increases in subcontractor prices over the covered period. For annual payment plans, the requested amount can be updated based on inflation and subcontractor prices.
 
-## Service reviewal and succession arrangements
+## Service review and succession arrangements
 
 PublicnEUro reviews sustainability at dataset level because each dataset can have different size, access mode, retention period and service needs. The Management Committee reviews free versus paid services and considers the sustainability of the platform as part of repository governance.
 

@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Preservation and dataset lifecycle
 
 ## Retention

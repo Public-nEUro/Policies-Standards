@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Data deposit and publication
 
 ## Eligible data

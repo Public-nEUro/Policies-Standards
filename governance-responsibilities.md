@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Governance Structure
 
 PublicnEUro is a service provided by the [Neurobiology Research Unit](https://nru.dk/), governed by the [Capital Region of Denmark](https://www.regionh.dk/english/Pages/default.aspx). NRU act as a data processor on behalf of data controllers.
@@ -34,7 +36,7 @@ The platform operates with the help of a DPO whose role is to:
 - review data access rights, including which data are accessed by whom, to ensure good records and prepare for possible audits.
 - contact authors (the data controller) and be the primary contact point with authorities in case of a security breach.
 
-# Responsabilities
+# Responsibilities
 
 The institution responsible for a dataset remains its data controller and determines the permitted uses of the data. PublicnEUro normally processes and distributes the dataset according to the controller's documented instructions. Registered users and their institutions are responsible for complying with the applicable licence, Data User Agreement and data-protection requirements.
 

@@ -1,3 +1,5 @@
+Reviewed by the Oversight Committee [date]
+
 # Privacy, security and incidents
 
 Principles for protection shall, according to GDPR [Article 5(1)](https://gdpr-info.eu/art-5-gdpr/), include purpose limitation, data minimisation, storage minimisation, and integrity and confidentiality. This means that personal data should be processed only for specified legal purposes, limited to what is relevant and necessary, not kept longer than necessary, and protected through appropriate technical and organisational measures.
