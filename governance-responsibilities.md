@@ -6,7 +6,7 @@ PublicnEUro is a service provided by the [Neurobiology Research Unit](https://nr
 
 ## Oversight committee
 
-An oversight committee is composed of experts in brain imaging and data sharing. The members are: Gitte Knussen, Robert Innis, Melanie Ganz, Koen Van Laere, and Russ Poldrack. The committee's deliberations operate as follows: two co-chairs are appointed and at least one co-chair must be present; a simple majority is considered a quorum to conduct business, and decision-making is by consensus.
+An oversight committee is composed of experts in brain imaging and data sharing. The members are: Gitte Knudsen, Robert Innis, Melanie Ganz, Koen Van Laere, and Russ Poldrack. The committee's deliberations operate as follows: two co-chairs are appointed and at least one co-chair must be present; a simple majority is considered a quorum to conduct business, and decision-making is by consensus.
 
 The role of the oversight committee is to:
 
