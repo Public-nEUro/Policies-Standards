@@ -4,19 +4,6 @@ Reviewed by the Oversight Committee - 14 October, 2026
 
 PublicnEUro is a data repository service offered by the Neurobiology Research Unit at Rigshospitalet, part of Region Hovedstaden. This privacy policy explains how our organisation uses the personal data we collect from you when you use our services.
 
-Topics:
-
-- [What data do we collect?](#what-data-do-we-collect)
-- [How do we collect your data?](#how-do-we-collect-your-data)
-- [How will we use your data?](#how-will-we-use-your-data)
-- [How do we store your data?](#how-do-we-store-your-data)
-- [What are your data protection rights?](#what-are-your-data-protection-rights)
-- [Privacy policy for our website](#privacy-policy-for-our-website)
-- [Privacy policies of other websites](#privacy-policies-of-other-websites)
-- [Changes to our privacy policy](#changes-to-our-privacy-policy)
-- [How to contact us](#how-to-contact-us)
-- [How to contact the institutional Data Protection Officer](#how-to-contact-the-institutional-data-protection-officer)
-- [How to contact the appropriate authority](#how-to-contact-the-appropriate-authority)
 
 ## What data do we collect?
 
