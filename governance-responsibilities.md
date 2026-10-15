@@ -27,14 +27,18 @@ The role of the management committee members is to:
 - review dataset usage with regard to storage minimisation and renewal of paid hosting services.
 - provide summaries of activity to the oversight committee.
 
-## Data Protection Officer
+## Local data-protection coordinator and institutional DPO
 
-The platform operates with the help of a DPO whose role is to:
+An NRU employee who is a member of the Management Committee and has appropriate data-protection training serves as PublicnEUro's local data-protection coordinator. The coordinator supports operational compliance and liaises with Region Hovedstaden's designated Data Protection Officer (DPO) as required. The coordinator's responsibilities are to:
 
-- advise and provide reports to the Oversight Committee and the Management Committee, including a DPIA.
-- work on the Management Committee to identify and assess risks.
-- review data access rights, including which data are accessed by whom, to ensure good records and prepare for possible audits.
-- contact authors (the data controller) and be the primary contact point with authorities in case of a security breach.
+- provide operational data-protection advice and reports to the Oversight Committee and the Management Committee, and support the preparation and review of Data Protection Impact Assessments (DPIAs).
+- work with Management Committee members to identify and assess risks.
+- review data access rights and access records to support accountability and preparation for audits.
+- coordinate communication with dataset data controllers and the relevant institutional teams when a security incident occurs, following the institution's incident procedures.
+
+For operational data-protection enquiries and rights requests, contact the local coordinator via [publicneuro@nru.dk](mailto:publicneuro@nru.dk).
+
+The local coordinator is distinct from the institution's formally designated DPO, whose role includes independent advice and monitoring. Users may contact the DPO directly through [Region Hovedstaden's published DPO contact page](https://www.regionh.dk/kontakt/henvendelser/sider/kontakt-region-hovedstadens-databeskyttelsesraadgiver-%28dpo%29.aspx). Complaint routes to the supervisory authority are described in the [PublicnEUro Privacy Notice](user-privacy-notice.md).
 
 # Responsibilities
 
@@ -55,9 +59,9 @@ PublicnEUro's GDPR compliance is based on clear roles, documented instructions, 
 - Data controllers who use PublicnEUro can request and access all user access records related to their data.
 - All data access is recorded for audit purposes.
 - A record of staff and their GDPR training is kept.
-- A Data Protection Officer reviews compliance and implements changes when needed.
-- A data breach involving authors, users or institutions in the database is reported to the supervisory authority as soon as possible by phone and email, and data users are informed by email.
-- In the case of a data breach related to datasets, authors are contacted immediately so they can report to their supervisory authority.
+- The local data-protection coordinator supports compliance reviews and the implementation of necessary changes with the Management Committee. The institution's designated DPO provides independent advice and monitoring.
+- Personal data breaches involving repository-user information are handled through the institution's incident procedures, including notification to the supervisory authority and affected individuals where required by the GDPR.
+- For personal data breaches affecting hosted datasets, PublicnEUro notifies the responsible data controller without undue delay and assists with the controller's notification obligations.
 
 ### Public data sharing compliance
 
