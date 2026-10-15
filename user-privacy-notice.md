@@ -1,21 +1,9 @@
-Reviewed by the Oversight Committee [date]
+Reviewed by the Oversight Committee - 14 October, 2026
 
 # PublicnEUro Privacy Notice
 
 PublicnEUro is a data repository service offered by the Neurobiology Research Unit at Rigshospitalet, part of Region Hovedstaden. This privacy policy explains how our organisation uses the personal data we collect from you when you use our services.
 
-Topics:
-
-- [What data do we collect?](#what-data-do-we-collect)
-- [How do we collect your data?](#how-do-we-collect-your-data)
-- [How will we use your data?](#how-will-we-use-your-data)
-- [How do we store your data?](#how-do-we-store-your-data)
-- [What are your data protection rights?](#what-are-your-data-protection-rights)
-- [Privacy policy for our website](#privacy-policy-for-our-website)
-- [Privacy policies of other websites](#privacy-policies-of-other-websites)
-- [Changes to our privacy policy](#changes-to-our-privacy-policy)
-- [How to contact us](#how-to-contact-us)
-- [How to contact the appropriate authority](#how-to-contact-the-appropriate-authority)
 
 ## What data do we collect?
 
@@ -72,13 +60,13 @@ The PublicnEUro website contains links to other websites. Our privacy policy app
 
 ## Changes to our privacy policy
 
-PublicnEUro keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 18 June 2024.
+PublicnEUro keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 15 October 2026.
 
 ## How to contact us
 
-If you have any questions about PublicnEUro's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+For questions about this privacy notice, the personal data held about you, or requests to exercise your data-protection rights, contact PublicnEUro's local data-protection coordinator. This role is held by an NRU employee who is a member of the Management Committee and has appropriate data-protection training. The local coordinator supports operational compliance and liaises with the institution's designated DPO as required.
 
-Email: publicneuro@nru.dk
+Email: [publicneuro@nru.dk](mailto:publicneuro@nru.dk)
 
 Call us at: +45 3545 6712
 
@@ -89,6 +77,12 @@ Neurobiology Research Unit
 Rigshospitalet, building 8057  
 DK-2100 Copenhagen, Denmark
 
+## How to contact the institutional Data Protection Officer
+
+The local coordinator is distinct from Region Hovedstaden's formally designated Data Protection Officer (DPO), whose role includes independent advice and monitoring. You may contact the institutional DPO directly about the processing of your personal data through [Region Hovedstaden's published DPO contact page](https://www.regionh.dk/kontakt/henvendelser/sider/kontakt-region-hovedstadens-databeskyttelsesraadgiver-%28dpo%29.aspx), which provides the current contact details.
+
 ## How to contact the appropriate authority
 
-Should you wish to report a complaint or if you feel that PublicnEUro has not addressed your concern in a satisfactory manner, you may contact our supervisory authority: <https://www.datatilsynet.dk/kontakt/>.
+You have the right to lodge a complaint with a competent supervisory authority if you consider that the processing of your personal data infringes the GDPR. In Denmark, this is Datatilsynet (the Danish Data Protection Agency): [how to file a complaint](https://www.datatilsynet.dk/english/file-a-complaint) or [contact Datatilsynet](https://www.datatilsynet.dk/english/contact-us).
+
+Contacting PublicnEUro or the institutional DPO can help resolve a concern, but does not limit your right to complain to a supervisory authority.
