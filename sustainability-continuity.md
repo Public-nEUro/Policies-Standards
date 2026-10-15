@@ -1,4 +1,4 @@
-Reviewed by the Oversight Committee [date]
+Reviewed by the Oversight Committee - 14 October, 2026
 
 # Sustainability and continuity
 
@@ -20,7 +20,7 @@ The model has three main cost components:
 - a recurring management and maintenance fee, which contributes to continued repository administration, access management, metadata maintenance, user support, agreement handling and service oversight;
 - a storage fee based on dataset size, which is used to cover subcontractor hosting costs for the dataset files.
 
-Management and maintenance fees provide a modest overhead for the repository services that sit around storage. This includes the virtual machines and software services used by PublicnEUro, access-control workflows, account administration, signed agreement handling, metadata publication, DOI landing-page maintenance, security follow-up, and communication with data controllers and users.
+Management and maintenance fees provide a modest overhead for the repository services associated with storage. This includes the virtual machines and software services used by PublicnEUro, access-control workflows, account administration, signed agreement handling, metadata publication, DOI landing-page maintenance, security follow-up, and communication with data controllers and users.
 
 Because the repository depends on dataset-level fees to cover Computerome hosting and repository overhead, non-payment can affect continued file availability. If a data controller does not pay the applicable fees, PublicnEUro may terminate or not renew the active hosting service in accordance with the agreement. This is offset by the one-time payment plan, which fits typical grant spending structure. In this case, an additional buffer fee is intended to cover potential increases in subcontractor prices over the covered period. For annual payment plans, the requested amount can be updated based on inflation and subcontractor prices.
 

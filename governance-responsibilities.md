@@ -1,4 +1,4 @@
-Reviewed by the Oversight Committee [date]
+Reviewed by the Oversight Committee - 14 October, 2026
 
 # Governance Structure
 
@@ -67,7 +67,7 @@ PublicnEUro's GDPR compliance is based on clear roles, documented instructions, 
 - Cloud-stored data are strongly encrypted at rest and in transit.
 - Any data breach is reported to the data controllers.
 - The cloud service and the nEUrothenticate platform are ISO 27001 certified.
-- A risk assessment is conducted on a regular basis, and that information is kept in a risk registry.
+- A risk assessment is conducted by management committee members, and that information is kept in a risk registry.
 
 Additional GDPR compliance includes the Data Transfer Agreement between authors and the Neurobiology Research Unit. Users must agree that PublicnEUro may keep their information for the purpose of providing data access and auditing.
 

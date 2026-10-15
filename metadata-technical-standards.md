@@ -1,4 +1,4 @@
-Reviewed by the Oversight Committee [date]
+Reviewed by the Oversight Committee - 14 October, 2026
 
 # Metadata and technical standards
 
